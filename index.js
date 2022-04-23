@@ -13,5 +13,3 @@ mongoose.connect('mongodb+srv://jickoon:ohoh1643@boiler-plate.xodsd.mongodb.net/
 	app.listen(port, () => {
 	  console.log(`Example app listening on port ${port}`)
 	})
-
-
